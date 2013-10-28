@@ -12,7 +12,6 @@ void setup(){
   pinMode(ledPin, OUTPUT);
   pinMode(shutterPin, OUTPUT);
   pinMode(focusPin, OUTPUT);
-  Serial.begin(9600);
 }
 
 void loop(){
